@@ -1,5 +1,4 @@
-# Producer-Consumer-Using-IPC
-Producer-Consumer Problem Using Inter-Process Communication (IPC)
+# Producer-Consumer Problem Using Inter-Process Communication (IPC)
 
 This repository simulates synchronized producer and consumer processes. The producer produces items and places them into a shared bounded buffer as long as it is not full, and the consumer consumes the produced items in the shared bounded buffer as long as it is not empty. The producer and the consumer use inter-process communication.
 
